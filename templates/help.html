@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Help Center</title>
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+  <link rel="stylesheet" href="{{url_for('static',filename='styles/help.css')}}">
+</head>
+<body>
+  <header>
+    <h1>🛠️ Help Center</h1>
+    <p>Find answers to your questions and get the help you need</p>
+    <input type="text" placeholder="Search for help articles, FAQs, or topics..." class="search-box">
+  </header>
+
+  <main class="container">
+    <!-- Left Help Topics -->
+    <section class="faq-section">
+      <div class="faq-box">
+        <h2>📦 Orders & Shipping</h2>
+        <ul>
+          <li>How can I track my delivery?</li>
+          <li>What are your delivery options?</li>
+          <li>Can I change or cancel my order?</li>
+          <li>What if my package is damaged or lost?</li>
+        </ul>
+      </div>
+
+      <div class="faq-box">
+        <h2>👤 Account & Profile</h2>
+        <ul>
+          <li>How do I create an account?</li>
+          <li>I forgot my password. How can I reset it?</li>
+          <li>Can I update my profile information?</li>
+          <li>Can I delete my account?</li>
+        </ul>
+      </div>
+
+      <div class="faq-box">
+        <h2>💳 Payments & Billing</h2>
+        <ul>
+          <li>What payment methods do you accept?</li>
+          <li>Is my payment information secure?</li>
+          <li>Can I save multiple payment methods?</li>
+          <li>What if my payment is declined?</li>
+        </ul>
+      </div>
+
+      <div class="faq-box">
+        <h2>✨ Recommendations</h2>
+        <ul>
+          <li>How do product recommendations work?</li>
+          <li>Can I improve my recommendations?</li>
+          <li>Why am I seeing certain recommendations?</li>
+          <li>Can I turn off recommendations?</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Right Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-box">
+        <h3>📞 Contact Support</h3>
+        <p><strong>Live Chat:</strong> Start Chat</p>
+        <p><strong>Phone Support:</strong> Call Now</p>
+        <p><strong>Email Support:</strong> Send Email</p>
+      </div>
+
+      <div class="sidebar-box">
+        <h3>🔗 Quick Links</h3>
+        <ul>
+          <li>Privacy Policy</li>
+          <li>Returns</li>
+          <li>Terms & Conditions</li>
+          <li>Shipping Info</li>
+        </ul>
+      </div>
+
+      <div class="sidebar-box">
+        <h3>📡 System Status</h3>
+        <ul>
+          <li>Website: <span class="online">Operational</span></li>
+          <li>Shipping: <span class="online">Operational</span></li>
+          <li>Payments: <span class="online">Operational</span></li>
+        </ul>
+      </div>
+    </aside>
+  </main>
+</body>
+</html>

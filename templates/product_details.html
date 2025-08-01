@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{{ product.title }} - 🛍 Aivora</title>
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/product_details.css') }}">
+</head>
+<body>
+
+  <!-- Header -->
+  <nav class="navbar">
+    <div class="logo">🛍 Aivora</div>
+    <button onclick="history.back()" class="back-button">← Back</button>
+  </nav>
+
+  <!-- Product Detail Section -->
+  <div class="product-detail-container">
+    <div class="product-image-box">
+      {% if product.image.startswith('http') %}
+        <img src="{{ product.image }}" alt="{{ product.title }}">
+      {% else %}
+        <img src="{{ url_for('static', filename='images/' + product.image) }}" alt="{{ product.title }}">
+      {% endif %}
+    </div>
+    
+    <div class="product-info-box">
+      <h1>{{ product.title }}</h1>
+      <p class="category">Category: {{ product.category }}</p>
+      <p class="description">{{ product.description or "No description available." }}</p>
+      <p class="price">Price: ₹{{ product.price }}</p>
+      
+      {% if product.rating %}
+        <p class="rating">
+          Rating: ⭐ {{ product.rating['rate'] }} 
+          ({{ product.rating['count'] }} reviews)
+        </p>
+      {% endif %}
+
+      <div class="buy-now-container">
+        <form action="{{ url_for('place_order', product_id=product.product_id) }}" method="post">
+          <button type="submit">Buy Now</button>
+        </form>
+      </div>
+</body>
+</html>

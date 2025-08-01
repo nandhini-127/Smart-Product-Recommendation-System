@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Feedback</title>
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/feedback.css') }}">
+</head>
+<body>
+  <nav>
+    <div class="logo">🛍 Aivora</div>
+    <div class="nav-links">
+      <a href="{{ url_for('home') }}">Home</a>
+    </div>
+  </nav>
+
+  <main>
+    <section class="feedback-form">
+      <h2>Feedback & Reviews</h2>
+      <p>Help us improve by sharing your thoughts and experiences</p>
+      <form method="POST">
+        <label>Overall Experience:
+          <input type="number" name="rating" min="1" max="5" required />
+        </label>
+
+        <label>Feedback Category:
+          <select name="category" required>
+            <option disabled selected>Select a category</option>
+            <option value="Product">Product</option>
+            <option value="Website">Website</option>
+            <option value="Suggestion">Suggestion</option>
+          </select>
+        </label>
+
+        <label>Subject:
+          <input type="text" name="subject" placeholder="Brief description" required />
+        </label>
+
+        <label>Your Feedback:
+          <textarea name="description" placeholder="Write your feedback here..." required></textarea>
+        </label>
+
+        <label>Name (optional):
+          <input type="text" name="name" />
+        </label>
+
+        <label>Email (optional):
+          <input type="email" name="email" />
+        </label>
+
+        <button type="submit">Submit Feedback</button>
+      </form>
+    </section>
+
+    <aside class="sidebar">
+      <div class="quick-actions">
+        <h3>Quick Actions</h3>
+        <button onclick="openStarRating()">Rate Recent Purchase</button>
+        <button onclick="openIssueBox()">Report an Issue</button>
+        <button onclick="openSuggestionBox()">Suggest Improvement</button>
+        <div id="quick-response"></div>
+      </div>
+
+      <div class="feedback-guidelines">
+        <h3>Feedback Guidelines</h3>
+        <ul>
+          <li>Be specific and constructive</li>
+          <li>Provide relevant details</li>
+          <li>Avoid sharing personal/sensitive info</li>
+          <li>Response within 2–3 business days</li>
+        </ul>
+      </div>
+    </aside>
+  </main>
+
+  <script>
+    function openStarRating() {
+      const stars = prompt("Rate your recent purchase (1-5 stars):");
+      if (stars >= 1 && stars <= 5) {
+        document.getElementById("quick-response").innerText = "Thanks for rating!";
+      } else {
+        alert("Please enter a valid star rating between 1 and 5.");
+      }
+    }
+
+    function openIssueBox() {
+      const issue = prompt("Describe the issue you faced:");
+      if (issue) {
+        document.getElementById("quick-response").innerText = "Issue submitted successfully.";
+      }
+    }
+
+    function openSuggestionBox() {
+      const suggestion = prompt("Suggest an improvement:");
+      if (suggestion) {
+        document.getElementById("quick-response").innerText = "Suggestion noted!";
+      }
+    }
+  </script>
+</body>
+</html>

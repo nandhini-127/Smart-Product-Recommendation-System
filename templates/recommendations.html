@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aivora-Recommendations</title>
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/recommendations.css') }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+  <nav>
+    <div class="logo">🛍 Aivora</div>
+    <ul>
+      <li><a href="{{ url_for('home') }}">Home</a></li>
+    </ul>
+  </nav>
+
+  <div class="recommendation-container">
+    <h2>Recommendations for You</h2>
+    <p>Discover products tailored to your preferences and shopping behavior</p>
+
+    {% set sections = [
+      ('🎯 Personalized for You', hybrid_recs, 'Based on your browsing history and purchases'),
+      ('📍 Location Based', location, 'Trending in your area'),
+      ('💸 Price Sensitivity', price_sensitive, 'Matches your budget and spend patterns'),
+      ('🔥 Trending Products', trending, 'Popular on platform recently'),
+      ('📊 RFM-Based Suggestions', rfm, 'Based on Recency, Frequency, and Monetary analysis')
+    ] %}
+
+    {% for title, products, subtitle in sections %}
+    <div class="recommendation-section">
+      <h3>{{ title }}</h3>
+      <p>{{ subtitle }}</p>
+      <div class="card-grid">
+        {% for product in products %}
+        <div class="card">
+          <div class="badge">Recommended</div>
+          <div class="product-image">
+            {% if product.image.startswith('https') %}
+              <img src="{{ product.image }}" alt="{{ product.title }}">
+            {% else %}
+              <img src="{{ url_for('static', filename='images/' + product.image) }}" alt="{{ product.title }}">
+            {% endif %}
+          </div>
+          <div class="product-details">
+            <div class="category">{{ product.category }}</div>
+            <h4>{{ product.title }}</h4>
+            <div class="rating">⭐ {{ product.rating }}</div>
+            <div class="price">₹{{ product.price }}</div>
+            <a href="{{ url_for('product_detail', product_id=product.product_id) }}" class="btn">View Product</a>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+
+    <div class="why-section">
+      <h3>Why These Recommendations?</h3>
+      <p>Our AI analyzes multiple factors to suggest products you'll love</p>
+      <div class="why-reasons">
+        <div class="reason"><div class="icon">🛒</div><p>Purchase History<br><span>Based on your shopping behavior</span></p></div>
+        <div class="reason"><div class="icon">📍</div><p>Location Trends<br><span>Popular nearby</span></p></div>
+        <div class="reason"><div class="icon">💰</div><p>Price Fit<br><span>Within your budget</span></p></div>
+        <div class="reason"><div class="icon">📈</div><p>Popular Items<br><span>Trending now</span></p></div>
+        <div class="reason"><div class="icon">📊</div><p>RFM based Recommendations<br><span>Your Favorites, Refreshed & Rewarded</span></p>

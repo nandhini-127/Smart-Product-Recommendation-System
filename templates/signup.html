@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aivora - Signup</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/login.css') }}">
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+</head>
+<body>
+  <div class="logo">🛍 Aivora</div>
+  <div class="container">
+    <form class="form" method="POST" action="/signup">
+      <h3>Create Account</h3>
+      {% if error %}
+        <p class="error">{{ error }}</p>
+      {% endif %}
+      <input type="text" name="name" placeholder="Full Name" required />
+      <input type="email" name="email" placeholder="Email" required />
+      <input type="password" name="password" placeholder="Password" required />
+      <button type="submit">Sign Up</button>
+      <p class="link">Already have an account? <a href="/login">Log in here</a></p>
+    </form>
+  </div>
+</body>
+</html>

@@ -1,0 +1,206 @@
+/* ============================ */
+/* Global Layout & Typography  */
+/* ============================ */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+nav {
+  background-color: #111;
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav .logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+  color: #1abc9c;
+}
+
+/* ============================ */
+/* Recommendation Container    */
+/* ============================ */
+.recommendation-container {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.recommendation-container h2 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.recommendation-container p {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+/* ============================ */
+/* Recommendation Section      */
+/* ============================ */
+.recommendation-section {
+  margin-bottom: 3rem;
+}
+
+.recommendation-section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.recommendation-section p {
+  margin-bottom: 1rem;
+  color: #888;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+/* ============================ */
+/* Product Card                */
+/* ============================ */
+.card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.badge {
+  background-color: #1abc9c;
+  color: white;
+  padding: 0.3rem 0.6rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  align-self: flex-start;
+  margin-bottom: 0.5rem;
+}
+
+.product-image img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.product-details {
+  margin-top: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.product-details .category {
+  font-size: 0.85rem;
+  color: #777;
+  text-transform: uppercase;
+}
+
+.product-details h4 {
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.product-details .rating {
+  font-size: 0.9rem;
+  color: #e67e22;
+}
+
+.product-details .price {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.product-details .btn {
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  background-color: #1abc9c;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: background 0.3s ease;
+}
+
+.product-details .btn:hover {
+  background-color: #16a085;
+}
+
+/* ============================ */
+/* Why Section                 */
+/* ============================ */
+.why-section {
+  padding: 2rem 0;
+  border-top: 1px solid #ddd;
+}
+
+.why-section h3 {
+  margin-bottom: 1rem;
+}
+
+.why-reasons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.reason {
+  flex: 1 1 180px;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.reason .icon {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.reason p {
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.reason span {
+  font-size: 0.8rem;
+  color: #777;
+}

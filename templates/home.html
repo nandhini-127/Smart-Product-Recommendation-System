@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aivora - Home</title>
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/home.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar">
+    <div class="logo">🛍 Aivora</div>
+    <ul class="nav-links">
+        <li><a href="{{ url_for('home') }}">Home</a></li>
+        <li><a href="{{ url_for('recommendations') }}">For You</a></li>
+    </ul>
+
+    <div class="user-menu">
+        <i class="fa-solid fa-user" id="userIcon"></i>
+        <div class="dropdown" id="userDropdown">
+            <a href="{{ url_for('profile') }}"><span><i class="fa-solid fa-user"></i> Profile</span></a>
+            <a href="{{ url_for('feedback') }}"><span><i class="fa-solid fa-comment-dots"></i> Feedback</span></a>
+            <a href="{{ url_for('help_page') }}"><span><i class="fa-solid fa-circle-question"></i> Help</span></a>
+            <a href="{{ url_for('landing') }}"><span><i class="fa-solid fa-right-from-bracket"></i> Logout</span></a>
+        </div>
+    </div>
+</nav>
+
+<!-- Main Section -->
+<main class="container">
+    <section class="welcome">
+        <h2>Welcome back, <span class="username">{{ username }}!</span></h2>
+        <p>Discover new products tailored just for you based on your preferences and browsing history.</p>
+        <a href="{{ url_for('recommendations') }}" class="btn">View Recommendations</a>
+    </section>
+
+    <!-- Featured Products from API (display only) -->
+    <section class="featured-section">
+        <div class="section-header">
+            <h3>Featured Products</h3>
+        </div>
+        <div class="product-grid">
+            {% for product in featured_products %}
+            <div class="product-card">
+                {% if product.image.startswith('https') %}
+                  <img src="{{ product.image }}" alt="{{ product.title}}">
+                {% else %}
+                  <img src="{{ url_for('static', filename='images/' + product.image) }}" alt="{{ product.title }}">
+                {% endif %}
+
+                <p class="category">{{ product.category }}</p>
+                <h4>{{ product.title }}</h4>
+                <div class="rating">⭐ {{ product.rating.rate }} ({{ product.rating.count }} reviews)</div>
+                <p class="price">₹{{ product.price }}</p>
+                <a href="{{ url_for('product_detail', product_id=product.product_id) }}" class="view-btn">View</a>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+</main>
+
+<script>
+    const userIcon = document.getElementById('userIcon');
+    const userDropdown = document.getElementById('userDropdown');
+
+    userIcon.addEventListener('click', () => {
+        userDropdown.classList.toggle('show');
+    });
+
+    window.addEventListener('click', (e) => {
+        if (!userIcon.contains(e.target) && !userDropdown.contains(e.target)) {
+            userDropdown.classList.remove('show');
+        }
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aivora</title>
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+  <link rel="shortcut icon" href="{{ url_for('static', filename='images/favicon.png') }}" type="image/png">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/landing.css') }}">
+  
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">🛍 Aivora</div>
+    <nav>
+      <a href="/login">Login</a>
+      <a href="/help">Help</a>
+    </nav>
+  </header>
+
+  <main class="hero-section">
+    <h1>Discover Products You'll Love</h1>
+    <div id="typing-text"></div>
+    <div class="hero-buttons">
+      <a href="/login" class="btn primary">Get Started</a>
+      <a href="/home" class="btn secondary">Browse Products</a>
+    </div>
+  </main>
+
+  <section class="features">
+    <div class="feature-card">
+      <span>⭐</span>
+      <h3>Smart Recommendations</h3>
+      <p>Our AI analyzes your browsing history and preferences to suggest products you're most likely to love.</p>
+    </div>
+    <div class="feature-card">
+      <span>👤</span>
+      <h3>Personalized Experience</h3>
+      <p>Every user gets a unique shopping experience tailored to their individual taste and shopping behavior.</p>
+    </div>
+    <div class="feature-card">
+      <span>⚡</span>
+      <h3>Lightning Fast</h3>
+      <p>Get instant recommendations as you browse, with real-time updates based on your interactions.</p>
+    </div>
+  </section>
+
+  <section class="cta">
+    <h2>Ready to Start Shopping?</h2>
+    <p>Join thousands of satisfied customers who’ve discovered their perfect products through our recommendation system.</p>
+    <a href="/login" class="btn">Sign Up Now</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Aivora. All rights reserved.</p>
+  </footer>
+
+  <script>
+    const text = "Our AI-powered recommendation system learns your preferences to suggest products perfectly tailored to your taste.";
+    let i = 0;
+    const typingText = document.getElementById("typing-text");
+
+    function typeWriter() {
+      if (i < text.length) {
+        typingText.innerHTML += text.charAt(i);
+        i++;
+        setTimeout(typeWriter, 30);
+      }
+    }
+
+    window.onload = typeWriter;
+  </script>
+</body>
+</html>

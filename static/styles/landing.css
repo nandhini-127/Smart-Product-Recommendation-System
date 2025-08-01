@@ -1,0 +1,177 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #ffffff;
+  color: #111;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3rem;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.navbar .logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.navbar nav a {
+  margin-left: 1.5rem;
+  font-size: 1rem;
+  color: #111;
+}
+
+.hero-section {
+  text-align: center;
+  padding: 5rem 2rem 4rem;
+}
+
+.hero-section h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.hero-section p {
+  font-size: 1.1rem;
+  color: #444;
+  margin-bottom: 2rem;
+}
+
+.hero-buttons .btn {
+  padding: 0.8rem 1.5rem;
+  border-radius: 5px;
+  margin: 0 0.5rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn {
+  padding: 10px 20px;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+
+.btn.primary {
+  background-color: #000;
+  color: #fff;
+}
+
+.btn.secondary {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #000;
+}
+
+.btn:hover {
+  opacity: 0.85;
+  background-color: #444;
+}
+
+/* Features Section */
+.features {
+  background-color: #f9f9f9;
+  padding: 4rem 2rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+/* 3D Hover Boxes */
+.feature-card {
+  background: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+  padding: 30px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  width: 250px;
+  margin: 20px;
+}
+
+.feature-card:hover {
+  transform: perspective(600px) rotateY(5deg) rotateX(5deg) scale(1.05);
+  box-shadow: 0 16px 32px rgba(0,0,0,0.2);
+}
+
+
+/* Typing Slogan */
+.slogan {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-top: 40px;
+  height: 40px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-align: center;
+  color: #333;
+}
+
+#typing-text {
+  font-size: 1.1rem;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  color: #333;
+  font-weight: 500;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  min-height: 40px;
+  }
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+
+.feature-card span {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+/* CTA Section */
+.cta {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.cta h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.cta p {
+  font-size: 1rem;
+  color: #444;
+  margin-bottom: 2rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1.5rem 0;
+  background-color: #fff;
+  border-top: 1px solid #eee;
+  font-size: 0.9rem;
+}

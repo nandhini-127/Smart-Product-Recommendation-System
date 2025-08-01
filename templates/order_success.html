@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aivora - Order Success</title>
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/order_success.css') }}">
+</head>
+<body>
+  <div class="order-container">
+    <h2>🎉 Order Successful!</h2>
+    <p class="thank-you">Thank you for shopping with <strong>Aivora</strong>! We hope you love your purchase.</p>
+
+    <div class="order-details">
+      <p><strong>🆔 Order ID:</strong> {{ order_id }}</p>
+      <p><strong>📦 Product:</strong> {{ product.title }}</p>
+      <p><strong>💰 Price:</strong> ₹{{ product.price }}</p>
+      <p><strong>⏰ Time:</strong> {{ timestamp }}</p>
+    </div>
+
+    <a href="{{ url_for('home') }}" class="home-button"> Back to Home</a>
+  </div>
+</body>
+</html>

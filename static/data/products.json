@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 450.0,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "category_id": 1,
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": {
+      "rate": 4.0,
+      "count": 120
+    },
+    "product_id": "d1407db0de774cf7a65915f1075bf23d"
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts ",
+    "price": 220.0,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "men's clothing",
+    "category_id": 1,
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "product_id": "90b3c48c7fc941e893251136fbab8f19"
+  },
+  {
+    "id": 3,
+    "title": "Mens Cotton Jacket",
+    "price": 550.5,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "category_id": 1,
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    },
+    "product_id": "711a5558db1243d39c9afd38e757f887"
+  },
+  {
+    "id": 4,
+    "title": "Mens Casual Slim Fit",
+    "price": 150.0,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "category_id": 1,
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    },
+    "product_id": "7ba2d51af1514fe489dc6e44fe7dfc1e"
+  },
+  {
+    "id": 5,
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695.0,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "jewelery",
+    "category_id": 2,
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    },
+    "product_id": "636f26c23e694972b4d60ea2a9940c83"
+  },
+  {
+    "id": 6,
+    "title": "Solid Gold Petite Micropave ",
+    "price": 168.0,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "category_id": 2,
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    },
+    "product_id": "8e2bf2b1049c44a39974ce7fb7d684f6"
+  },
+  {
+    "id": 7,
+    "title": "White Gold Plated Princess",
+    "price": 900.0,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelery",
+    "category_id": 2,
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    },
+    "product_id": "31ef541052ac450b9c203b75105e3fc0"
+  },
+  {
+    "id": 8,
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 108.0,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelery",
+    "category_id": 2,
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    },
+    "product_id": "31a4911d8c954372bad2453e08b0c593"
+  },
+  {
+    "id": 9,
+    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+    "price": 6500.0,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "category": "Electronics",
+    "category_id": 3,
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    },
+    "product_id": "f8d6c751b80e4e1b9b933d34fde0c00b"
+  },
+  {
+    "id": 10,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 4000.0,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "Electronics",
+    "category_id": 3,
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    },
+    "product_id": "451ba83ceef848ca8a3050daf4ad1ccf"
+  },
+  {
+    "id": 11,
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 2549.25,
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+    "category": "Electronics",
+    "category_id": 3,
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    },
+    "product_id": "3ea23869e3ec486786f6ba258abc25cb"
+  },
+  {
+    "id": 12,
+    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "price": 7099.0,
+    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+    "category": "Electronics",
+    "category_id": 3,
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    },
+    "product_id": "a868a5d9db7c4fae80cf26a6fdfa8433"
+  },
+  {
+    "id": 13,
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 6079.0,
+    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+    "category": "Electronics",
+    "category_id": 3,
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    },
+    "product_id": "7ef4c099c58747869f3e0b89ea15d02f"
+  },
+  {
+    "id": 14,
+    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+    "price": 99999.99,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "Electronics",
+    "category_id": 3,
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    },
+    "product_id": "50ec86689fa54be39cc8c299b16583b9"
+  },
+  {
+    "id": 15,
+    "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "price": 799.0,
+    "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+    "category": "women's clothing",
+    "category_id": 4,
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    },
+    "product_id": "b1b1f149c384443182eb05cf0f386717"
+  },
+  {
+    "id": 16,
+    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "price": 655.0,
+    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+    "category": "women's clothing",
+    "category_id": 4,
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    },
+    "product_id": "28feaff3dea54245a28400ca09a11f62"
+  },
+  {
+    "id": 17,
+    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "price": 699.0,
+    "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+    "category": "women's clothing",
+    "category_id": 4,
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    },
+    "product_id": "6f99e7e551a54b428e343cae66f48c92"
+  },
+  {
+    "id": 18,
+    "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+    "price": 199.0,
+    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+    "category": "women's clothing",
+    "category_id": 4,
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    },
+    "product_id": "df9393f8ed0e4d3e8ef7ec67c9dca467"
+  },
+  {
+    "id": 19,
+    "title": "Opna Women's Short Sleeve Moisture",
+    "price": 350.0,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "category_id": 4,
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    },
+    "product_id": "6bfb805e72054878bcc6df7c6902ae37"
+  },
+  {
+    "id": 20,
+    "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+    "price": 269.0,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "women's clothing",
+    "category_id": 4,
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    },
+    "product_id": "39e1d1d4e5d44bcd96c54cee186a7fca"
+  },
+  {
+    "id": 21,
+    "title": "Classic Comfort Drawstring Joggers",
+    "slug": "classic-comfort-drawstring-joggers",
+    "price": 790,
+    "description": "Experience the perfect blend of comfort and style with our Classic Comfort Drawstring Joggers. Designed for a relaxed fit, these joggers feature a soft, stretchable fabric, convenient side pockets, and an adjustable drawstring waist with elegant gold-tipped detailing. Ideal for lounging or running errands, these pants will quickly become your go-to for effortless, casual wear.",
+    "category": "Clothes",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.-tLCBHE8jJWAYDHpT4sx2AHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    },
+    "product_id": "48f95119f93f4175ae346cecb197ac7b"
+  },
+  {
+    "id": 22,
+    "title": "Classic Blue Baseball Cap",
+    "price": 550,
+    "description": "Top off your casual look with our Classic Blue Baseball Cap, made from high-quality materials for lasting comfort. Featuring a timeless six-panel design with a pre-curved visor, this adjustable cap offers both style and practicality for everyday wear.",
+    "category": "Clothes",
+    "category_id": 5,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2022/2/RJ/WX/IF/146080341/men-blue-plain-cap-1000x1000.jpg",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    },
+    "product_id": "e021a69c395e4b6db9d6abeb0d908424"
+  },
+  {
+    "id": 23,
+    "title": "Classic Black Baseball Cap",
+    "price": 550,
+    "description": "Classic black cap with adjustable strap, perfect for everyday use.",
+    "category": "Clothes",
+    "category_id": 5,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.o35JyNp1V3LVwqoZB0d7YwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.2,
+      "count": 210
+    },
+    "product_id": "8ce849322a9245809598a9c4af04037a"
+  },
+  {
+    "id": 24,
+    "title": "Classic Red Baseball Cap",
+    "price": 5550,
+    "description": "Timeless red baseball cap with comfortable adjustable strap, great for sunny days.",
+    "category": "Clothes",
+    "category_id": 5,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.DMATsYLAkiYBIj-Bdefl4gHaG_?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.1,
+      "count": 198
+    },
+    "product_id": "bcab713a0ca246b3be576a6799dc3a43"
+  },
+  {
+    "id": 25,
+    "title": "Classic Olive Chino Shorts",
+    "price": 284,
+    "description": "Olive chino shorts with a tailored fit, smooth waistband, and durable fabric.",
+    "category": "women's clothing",
+    "category_id": 4,
+    "image": "https://5.imimg.com/data5/KT/WK/MY-63355322/mens-half-pant-500x500.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 176
+    },
+    "product_id": "6374cbcf6194407aaf492561e0c0fb57"
+  },
+  {
+    "id": 26,
+    "title": "Classic High-Waisted Athletic Shorts",
+    "price": 243,
+    "description": "High-waisted breathable shorts, perfect for gym and casual wear.",
+    "category": "Sports & Outdoor",
+    "category_id": 6,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.9ogmeSHPbO64T21nGoXOqQHaJk?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.3,
+      "count": 157
+    },
+    "product_id": "9ddea34171314fc3a4c76801e764b6f5"
+  },
+  {
+    "id": 27,
+    "title": "Classic White Crew Neck T-Shirt",
+    "price": 439,
+    "description": "Breathable, soft cotton white tee with a sleek design for any outfit.",
+    "category": "Clothes",
+    "category_id": 5,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.FUeZ9QB_ZVt60q9nyMm3gQHaKL?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.6,
+      "count": 230
+    },
+    "product_id": "e27b3a653a534c76a2dd50893e8a7197"
+  },
+  {
+    "id": 28,
+    "title": "Sleek White & Orange Wireless Gaming Controller",
+    "price": 1569,
+    "description": "Ergonomic white & orange wireless controller with precise buttons for all platforms.",
+    "category": "Gaming Consoles",
+    "category_id": 7,
+    "image": "https://i.pinimg.com/originals/25/b8/be/25b8be346fe325a94124dbe704b3063b.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 289
+    },
+    "product_id": "c80fe4f5827247809d94c51bcc2eed75"
+  },
+  {
+    "id": 29,
+    "title": "Classic White Tee - Timeless Style and Comfort",
+    "price": 573,
+    "description": "Premium cotton white tee with relaxed fit and long-lasting softness.",
+    "category": "Clothes",
+    "category_id": 5,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.l0_kGZpFnj6qO_NjA-SNhQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.7,
+      "count": 312
+    },
+    "product_id": "e1bd0a2db706449c919c27ebbebd69b3"
+  },
+  {
+    "id": 30,
+    "title": "Sleek Wireless Headphone & Inked Earbud Set",
+    "price": 444,
+    "description": "White wireless headphones with earbuds combo for versatile, immersive sound.",
+    "category": "Headphones & Audio Devices",
+    "category_id": 8,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.-H-OUlbof7ij9z1ZrpLyVwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.2,
+      "count": 264
+    },
+    "product_id": "cb7a1f26cd564a4dab22d822b94c5f23"
+  },
+  {
+    "id": 31,
+    "title": "Classic Black T-Shirt",
+    "price": 335,
+    "description": "Elevate your everyday style with our Classic Black T-Shirt. This staple piece is crafted from soft, breathable cotton for all-day comfort. Its versatile design features a classic crew neck and short sleeves, making it perfect for layering or wearing on its own. Durable and easy to care for, it's sure to become a favorite in your wardrobe.",
+    "category": "men's clothing",
+    "category_id": 1,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.fyr8x0mOCY00VOa9FozVlQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.5,
+      "count": 189
+    },
+    "product_id": "480e3651735b41f2a5f9798d38d1de17"
+  },
+  {
+    "id": 32,
+    "title": "Sleek Comfort-Fit Over-Ear Headphones",
+    "price": 228,
+    "description": "Experience superior sound quality with our Sleek Comfort-Fit Over-Ear Headphones, designed for prolonged use with cushioned ear cups and an adjustable, padded headband. Ideal for immersive listening, whether you're at home, in the office, or on the move. Their durable construction and timeless design provide both aesthetically pleasing looks and long-lasting performance.",
+    "category": "Headphones & Audio Devices",
+    "category_id": 8,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.4gqXbXkZ5kcXchxwtz_-aAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.6,
+      "count": 241
+    },
+    "product_id": "5ae70c8352384abe90943a03a4a152ac"
+  },
+  {
+    "id": 33,
+    "title": "Efficient 2-Slice Toaster",
+    "price": 3048,
+    "description": "Enhance your morning routine with our sleek 2-slice toaster, featuring adjustable browning controls and a removable crumb tray for easy cleaning. This compact and stylish appliance is perfect for any kitchen, ensuring your toast is always golden brown and delicious.",
+    "category": "Kitchen and Home Utilities",
+    "category_id": 9,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.7ftMbZlL3ZKtYYexIC3yngHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.2,
+      "count": 127
+    },
+    "product_id": "da1c0d3f40784c7b9b75d5ec53e85a17"
+  },
+  {
+    "id": 34,
+    "title": "Sleek Modern Laptop with Ambient Lighting",
+    "price": 73000,
+    "description": "Experience next-level computing with our ultra-slim laptop, featuring a stunning display illuminated by ambient lighting. This high-performance machine is perfect for both work and play, delivering powerful processing in a sleek, portable design. The vibrant colors add a touch of personality to your tech collection, making it as stylish as it is functional.",
+    "category": "Laptop & Computer Accessories",
+    "category_id": 10,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.o7pvRD9yIG-w-L492JlQOgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.8,
+      "count": 98
+    },
+    "product_id": "56ba652d6a3b48c38c82b2217e972758"
+  },
+  {
+    "id": 35,
+    "title": "Sleek Wireless Computer Mouse",
+    "price": 10,
+    "description": "Experience smooth and precise navigation with this modern wireless mouse, featuring a glossy finish and a comfortable ergonomic design. Its responsive tracking and easy-to-use interface make it the perfect accessory for any desktop or laptop setup. The stylish blue hue adds a splash of color to your workspace, while its compact size ensures it fits neatly in your bag for on-the-go productivity.",
+    "category": "Electronics",
+    "category_id": 3,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.eVED__k4gbDHZOGdVZhCQwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.3,
+      "count": 175
+    },
+    "product_id": "c4938741a7594d10bdc06cba72d08af1"
+  },
+  {
+    "id": 36,
+    "title": "Sleek Modern Laptop for Professionals",
+    "price": 54000,
+    "description": "Experience cutting-edge technology and elegant design with our latest laptop model. Perfect for professionals on-the-go, this high-performance laptop boasts a powerful processor, ample storage, and a long-lasting battery life, all encased in a lightweight, slim frame for ultimate portability. Shop now to elevate your work and play.",
+    "category": "Laptop & Computer Accessories",
+    "category_id": 10,
+    "image": "https://img.freepik.com/premium-photo/top-view-sleek-modern-laptop-with-metallic-finish_1139973-125.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 223
+    },
+    "product_id": "414d166162ca4dcaa5cdf1299bb9f349"
+  },
+  {
+    "id": 37,
+    "title": "Stylish Red & Silver Over-Ear Headphones",
+    "price": 259,
+    "description": "Immerse yourself in superior sound quality with these sleek red and silver over-ear headphones. Designed for comfort and style, the headphones feature cushioned ear cups, an adjustable padded headband, and a detachable red cable for easy storage and portability. Perfect for music lovers and audiophiles who value both appearance and audio fidelity.",
+    "category": "Headphones & Audio Devices",
+    "category_id": 8,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.jrlqh8c-aWA3wqGFnrxoFAHaE7?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.5,
+      "count": 208
+    },
+    "product_id": "8dce6d161d1a437e84580030b753318e"
+  },
+  {
+    "id": 38,
+    "title": "Sleek Mirror Finish Phone Case",
+    "price": 150,
+    "description": "Enhance your smartphone's look with this ultra-sleek mirror finish phone case. Designed to offer style with protection, the case features a reflective surface that adds a touch of elegance while keeping your device safe from scratches and impacts. Perfect for those who love a minimalist and modern aesthetic.",
+    "category": "Mobile Phones",
+    "category_id": 11,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.XcqrACXEAcpb8bdXI-TqMgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.4,
+      "count": 116
+    },
+    "product_id": "069a69d515d34be29e48fb219947f89b"
+  },
+  {
+    "id": 39,
+    "title": "Sleek Smartwatch with Vibrant Display",
+    "price": 9999,
+    "description": "Experience modern timekeeping with our high-tech smartwatch, featuring a vivid touch screen display, customizable watch faces, and a comfortable blue silicone strap. This smartwatch keeps you connected with notifications and fitness tracking while showcasing exceptional style and versatility.",
+    "category": "Watches",
+    "category_id": 12,
+    "image": "https://thumbs.dreamstime.com/z/sleek-black-smartwatch-featuring-rectangular-display-vibrant-colorful-interface-time-word-mockup-prominently-358337652.jpg?w=768",
+    "rating": {
+      "rate": 4.6,
+      "count": 312
+    },
+    "product_id": "6ffd9b166833406397f16971c0995cb4"
+  },
+  {
+    "id": 40,
+    "title": "Sleek Modern Leather Sofa",
+    "price": 4453,
+    "description": "Enhance the elegance of your living space with our Sleek Modern Leather Sofa. Designed with a minimalist aesthetic, it features clean lines and a luxurious leather finish. The robust metal legs provide stability and support, while the plush cushions ensure comfort. Perfect for contemporary homes or office waiting areas, this sofa is a statement piece that combines style with practicality.",
+    "category": "Furniture & Home Decor",
+    "category_id": 13,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.2SK7ciEP5xTOMlrnrY2zYAHaE7?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": {
+      "rate": 4.8,
+      "count": 143
+    },
+    "product_id": "6fc893b5604143699f77b736c913721e"
+  },
+  {
+    "id": 41,
+    "title": "Mid-Century Modern Wooden Dining Table",
+    "slug": "mid-century-modern-wooden-dining-table",
+    "price": 5524,
+    "description": "This wooden dining table has a smooth walnut finish and tapered legs. It fits well in any dining room and gives a classic, simple look.",
+    "category": "Furniture & Home Decor",
+    "category_id": 13,
+    "image": "https://i5.walmartimages.com/asr/6d9efd66-3d12-4de0-93cc-e1eda2b745ff_1.9713c0206e430e6cb9425469a6de2545.jpeg",
+    "product_id": "11fc848e92cd42f68686b919aa7ecd4d",
+    "rating": {
+      "rate": 4.6,
+      "count": 437
+    }
+  },
+  {
+    "id": 42,
+    "title": "Elegant Golden-Base Stone Top Dining Table",
+    "slug": "elegant-golden-base-stone-top-dining-table",
+    "price": 6666,
+    "description": "This stylish dining table has a shiny golden base and a smooth stone top. It’s perfect for both daily use and special events.",
+    "category": "Furniture & Home Decor",
+    "category_id": 13,
+    "image": "https://elegantinterior.com.au/cdn/shop/files/Harper-Dining-Table-Australia-elegant-interior-7_2048x.jpg?v=1693293390",
+    "product_id": "b154e9573dd7491b84fd8aa235b69e18",
+    "rating": {
+      "rate": 4.5,
+      "count": 388
+    }
+  },
+  {
+    "id": 43,
+    "title": "Modern Elegance Teal Armchair",
+    "slug": "modern-elegance-teal-armchair",
+    "price": 525,
+    "description": "A comfy armchair with a wooden frame and teal fabric. Great for reading or relaxing with a modern touch.",
+    "category": "Furniture & Home Decor",
+    "category_id": 13,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.P9RR70773FPb-za95jiSXwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "8f3eda62b4fb46daae8149158c7744d3",
+    "rating": {
+      "rate": 3.1,
+      "count": 136
+    }
+  },
+  {
+    "id": 44,
+    "title": "Elegant Solid Wood Dining Table",
+    "slug": "elegant-solid-wood-dining-table",
+    "price": 7767,
+    "description": "A solid wood dining table with a warm finish. It fits six people and brings a cozy feel to your dining room.",
+    "category": "Kitchen and Home Utilities",
+    "category_id": 14,
+    "image": "https://cdn.decornation.in/wp-content/uploads/2020/03/modern-designer-wooden-dining-table-1.jpg",
+    "product_id": "8145111e8aca4255b4782fefce54e7ec",
+    "rating": {
+      "rate": 3.1,
+      "count": 120
+    }
+  },
+  {
+    "id": 45,
+    "title": "Modern Minimalist Workstation Setup",
+    "slug": "modern-minimalist-workstation-setup",
+    "price": 549,
+    "description": "This clean and modern workstation includes a wood desk, desk lamp, and computer. Great for home offices.",
+    "category": "Kitchen and Home Utilities",
+    "category_id": 14,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.z4WUPdCO0aEV9N2ZVIAOWgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "931e5437ea5441abb74006f9662d5814",
+    "rating": {
+      "rate": 4.8,
+      "count": 375
+    }
+  },
+  {
+    "id": 46,
+    "title": "Futuristic Holographic Soccer Cleats",
+    "slug": "futuristic-holographic-soccer-cleats",
+    "price": 439,
+    "description": "These cleats have a shiny rainbow-like finish and help you move fast on the field. They’re made for players who want to stand out.",
+    "category": "Shoes",
+    "category_id": 15,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.6VJVP_0XbuP5oNKUanewMwHaFW?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "5a8c39c8f5af47ce87b1c1ced32d3216",
+    "rating": {
+      "rate": 3.6,
+      "count": 112
+    }
+  },
+  {
+    "id": 47,
+    "title": "Modern Ergonomic Office Chair",
+    "slug": "modern-ergonomic-office-chair",
+    "price": 8770,
+    "description": "A white office chair with smooth wheels and a soft seat. Designed to keep you comfortable all day.",
+    "category": "Furniture & Home Decor",
+    "category_id": 13,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.nlzKMukDFoWgYhQkbNkbIgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "b048ebbbf4474b9184a67e73b092fd39",
+    "rating": {
+      "rate": 3.9,
+      "count": 149
+    }
+  },
+  {
+    "id": 48,
+    "title": "Vibrant Runners: Bold Orange & Blue Sneakers",
+    "slug": "vibrant-runners-bold-orange-blue-sneakers",
+    "price": 827,
+    "description": "These orange and blue sneakers are bright and stylish. They’re also comfy and great for running or casual wear.",
+    "category": "Shoes",
+    "category_id": 15,
+    "image": "https://i.pinimg.com/originals/6a/cd/82/6acd8216b736d76d65f8cdd14307d145.jpg",
+    "product_id": "7e2d2d184b724c308487b61f4cc8817d",
+    "rating": {
+      "rate": 3.3,
+      "count": 179
+    }
+  },
+  {
+    "id": 49,
+    "title": "Chic Summer Denim Espadrille Sandals",
+    "slug": "chic-summer-denim-espadrille-sandals",
+    "price": 633,
+    "description": "Light and comfy sandals with denim straps and jute soles. Easy to slip on for warm weather days.",
+    "category": "Shoes",
+    "category_id": 15,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.BzZ93rYs8_mdzMi7e7LMLgHaIX?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "79fd368853654e0aa71aa99b9246215f",
+    "rating": {
+      "rate": 4.0,
+      "count": 461
+    }
+  },
+  {
+    "id": 50,
+    "title": "Rainbow Glitter High Heels",
+    "slug": "rainbow-glitter-high-heels",
+    "price": 639,
+    "description": "These high heels sparkle with rainbow glitter. Perfect for parties or nights out.",
+    "category": "Shoes",
+    "category_id": 15,
+    "image": "https://i.pinimg.com/originals/a1/17/ba/a117ba1fd75880da017c69d4f30ccb27.jpg",
+    "product_id": "821718fb1e324544a9a7b51f57e009ee",
+    "rating": {
+      "rate": 4.4,
+      "count": 145
+    }
+  },
+  {
+    "id": 51,
+    "title": "Vibrant Pink Classic Sneakers",
+    "slug": "vibrant-pink-classic-sneakers",
+    "price": 784,
+    "description": "These bright pink sneakers have a simple design with white details. They are comfy, durable, and perfect for adding color to your outfit.",
+    "category": "Shoes",
+    "category_id": 15,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.u7WSW_P73JBFhPcFl3OX5QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "14e939d3a0b448a6a3beebee3e86df54",
+    "rating": {
+      "rate": 4.9,
+      "count": 276
+    }
+  },
+  {
+    "id": 52,
+    "title": "Futuristic Chic High-Heel Boots",
+    "slug": "futuristic-chic-high-heel-boots",
+    "price": 536,
+    "description": "These stylish high-heel boots come in light grey with a cool modern heel. Great for fashion lovers who want to stand out.",
+    "category": "Shoes",
+    "category_id": 15,
+    "image": "https://pics.craiyon.com/2023-11-11/iltfMRAbQwKPYQpIGXdJUA.webp",
+    "product_id": "6308037171ab4854b25af0481bd09a62",
+    "rating": {
+      "rate": 3.3,
+      "count": 452
+    }
+  },
+  {
+    "id": 53,
+    "title": "Elegant Patent Leather Peep-Toe Pumps",
+    "slug": "elegant-patent-leather-peep-toe-pumps-with-gold-tone-heel",
+    "price": 553,
+    "description": "Glossy peep-toe heels with a gold block heel and a pretty buckle. A perfect choice for parties or formal outfits.",
+    "category": "Shoes",
+    "category_id": 15,
+    "image": "https://th.bing.com/th/id/R.a01bcd00fc42306c9ab7962db759d729?rik=Fd1My%2fA0qK7IRw&riu=http%3a%2f%2fcdnc.lystit.com%2fphotos%2f2013%2f04%2f01%2fchristian-louboutin-black-altadama-patent-leather-peeptoe-pumps-product-1-7599786-399065011.jpeg&ehk=hnv0g8yD88%2b6U4qzTU3qogAOCXL3bn6DvgsVMcv7aoQ%3d&risl=&pid=ImgRaw&r=0",
+    "product_id": "1565cbd2ac074dcd891fdb7dd45f8bb6",
+    "rating": {
+      "rate": 4.0,
+      "count": 63
+    }
+  },
+  {
+    "id": 54,
+    "title": "Elegant Purple Leather Loafers",
+    "slug": "elegant-purple-leather-loafers",
+    "price": 417,
+    "description": "These purple leather loafers have a bold color and classic shape. Slip them on for a stylish and comfy look.",
+    "category": "Shoes",
+    "category_id": 15,
+    "image": "https://i.pinimg.com/originals/21/b8/a0/21b8a0b414d0de994c6f3cf853b5584d.jpg",
+    "product_id": "72132bea44d74a11af94aea888b54f8b",
+    "rating": {
+      "rate": 4.9,
+      "count": 174
+    }
+  },
+  {
+    "id": 55,
+    "title": "Futuristic Silver and Gold High-Top Sneaker",
+    "slug": "futuristic-silver-and-gold-high-top-sneaker",
+    "price": 668,
+    "description": "These silver and gold high-top sneakers have a shiny finish and a cool design. Perfect for showing off your unique style.",
+    "category": "Shoes",
+    "category_id": 15,
+    "image": "https://cdn.openart.ai/stable_diffusion/e4f44dfaeda11f5b38e60df3a0addd26b603aaee_2000x2000.webp",
+    "product_id": "4566d00d4fd746b09ae5cedf9b4f92bf",
+    "rating": {
+      "rate": 4.5,
+      "count": 190
+    }
+  },
+  {
+    "id": 56,
+    "title": "Classic Blue Suede Casual Shoes",
+    "slug": "classic-blue-suede-casual-shoes",
+    "price": 439,
+    "description": "Soft blue suede shoes with laces and rubber soles. These casual shoes are great for everyday use.",
+    "category": "Shoes",
+    "category_id": 15,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.n7E7yexX0H78gJ6a8g4cQQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "9e11776c272d4e33b82a5f61ed7487f8",
+    "rating": {
+      "rate": 4.3,
+      "count": 92
+    }
+  },
+  {
+    "id": 57,
+    "title": "Sleek All-Terrain Go-Kart",
+    "slug": "sleek-all-terrain-go-kart",
+    "price": 6737,
+    "description": "This go-kart has a strong frame and big tires that can handle different surfaces. It's fun for outdoor adventures.",
+    "category": "Sports & Outdoor",
+    "category_id": 6,
+    "image": "https://cdn11.bigcommerce.com/s-mkosr6upmx/images/stencil/1280x1280/products/6005/13710/3__40036.1723823447.jpg?c=1",
+    "product_id": "5e5a116a14bd488387750f88050151a4",
+    "rating": {
+      "rate": 4.9,
+      "count": 193
+    }
+  },
+  {
+    "id": 58,
+    "title": "Sleek Futuristic Electric Bicycle",
+    "slug": "sleek-futuristic-electric-bicycle",
+    "price": 722,
+    "description": "A modern electric bike with a stylish look, long battery life, and tech features. Great for smooth city rides.",
+    "category": "Sports & Outdoor",
+    "category_id": 6,
+    "image": "https://thumbs.dreamstime.com/b/innovative-electric-bicycle-features-striking-design-rich-green-details-sleek-futuristic-electric-bicycle-design-341525710.jpg",
+    "product_id": "e617bfd0e17d40f6a9777510c729e170",
+    "rating": {
+      "rate": 4.0,
+      "count": 196
+    }
+  },
+  {
+    "id": 59,
+    "title": "Radiant Citrus Eau de Perfume",
+    "slug": "radiant-citrus-eau-de-perfume",
+    "price": 373,
+    "description": "A fresh and fruity perfume with a citrus scent. Comes in a stylish bottle with a bright orange cap.",
+    "category": "Skincare & Personal Care",
+    "category_id": 16,
+    "image": "https://thumbs.dreamstime.com/b/luxury-citrus-perfume-bottle-lemon-slice-natural-elements-luxurious-fresh-surrounded-fruits-green-leaves-illuminated-354214068.jpg",
+    "product_id": "9cea3d6f67ea41ab91a3c9c4526ae995",
+    "rating": {
+      "rate": 4.6,
+      "count": 218
+    }
+  },
+  {
+    "id": 60,
+    "title": "Sleek Olive Green Hardshell Carry-On Luggage",
+    "slug": "sleek-olive-green-hardshell-carry-on-luggage",
+    "price": 448,
+    "description": "A strong carry-on suitcase in olive green. It has smooth wheels, a sturdy handle, and fits in airplane overhead bins.",
+    "category": "Automotive Accessories",
+    "category_id": 17,
+    "image": "https://i5.walmartimages.com/seo/Landisun-Collapsible-Carry-on-Luggage-Water-and-Impact-Resistant-Hardshell-20-inch-Carry-On-Luggage-with-Spinner-Wheels-Green_73c9796d-22d5-43bb-8c4a-ddb1ac3b63f4.daf6cd33d1b2da24d2e5c756fda71294.jpeg",
+    "product_id": "26e506dac3eb49c38b99793e17a10ad7",
+    "rating": {
+      "rate": 5.0,
+      "count": 337
+    }
+  },
+  {
+    "id": 61,
+    "title": "Chic Transparent Fashion Handbag",
+    "slug": "chic-transparent-fashion-handbag",
+    "price": 499,
+    "description": "Stylish clear handbag with gold details and chain strap. Great for carrying essentials with a modern look.",
+    "category": "Fashion",
+    "category_id": 18,
+    "image": "https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/272739/transparent-bag-trend-spring-2019-272739-1542302697192-image-1920-80.jpg",
+    "product_id": "e4c0edafb68d47459d8e7e4e8b41b4d0",
+    "rating": {
+      "rate": 4.2,
+      "count": 76
+    }
+  },
+  {
+    "id": 62,
+    "title": "Trendy Pink-Tinted Sunglasses",
+    "slug": "trendy-pink-tinted-sunglasses",
+    "price": 138,
+    "description": "Cool black sunglasses with pink lenses. Adds a fun pop of color while protecting your eyes.",
+    "category": "Office & Stationery",
+    "category_id": 19,
+    "image": "https://s.ygstatic.com/frame/1131/11311/320/2.1600.jpg",
+    "product_id": "9db9f8146db84a1d8d1e925a6aae126a",
+    "rating": {
+      "rate": 3.3,
+      "count": 311
+    }
+  },
+  {
+    "id": 63,
+    "title": "Elegant Glass Tumbler Set",
+    "slug": "elegant-glass-tumbler-set",
+    "price": 550,
+    "description": "Set of stylish glass tumblers, perfect for daily drinks or entertaining guests.",
+    "category": "Home Appliances",
+    "category_id": 20,
+    "image": "https://nestasia.in/cdn/shop/products/IMG_9932_1200x1200.jpg?v=1664625833",
+    "product_id": "795bf3c2d1f240b9af40d9fd19455e93",
+    "rating": {
+      "rate": 3.8,
+      "count": 219
+    }
+  },
+  {
+    "id": 64,
+    "title": "White and Blue School Uniform",
+    "slug": "white-blue-school-uniform",
+    "price": 499,
+    "description": "Simple white shirt and blue pants school uniform. Clean and neat style.",
+    "category": "Clothes",
+    "category_id": 5,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.4u8Oah0LjuFDsXsGJoipogHaEJ?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "083570af5b1740699ff566ccde32864c",
+    "rating": {
+      "rate": 4.9,
+      "count": 190
+    }
+  },
+  {
+    "id": 65,
+    "title": "Olive Green Comfort Shorts",
+    "slug": "olive-green-comfort-shorts",
+    "price": 1599,
+    "description": "Comfortable olive green shorts with pockets. Great for casual wear or outings.",
+    "category": "Clothes",
+    "category_id": 5,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.GXZF7YFtEW044QypNoX7LgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "4b4b7f3402f240aa9ef75c467aea2447",
+    "rating": {
+      "rate": 4.5,
+      "count": 464
+    }
+  },
+  {
+    "id": 66,
+    "title": "Samsung A55 Smartphone",
+    "slug": "samsung-a55-smartphone",
+    "price": 49999,
+    "description": "Powerful smartphone with great features and a stylish design.",
+    "category": "Mobile Phones",
+    "category_id": 11,
+    "image": "https://www.whatmobile.com.pk/control/news/assets/28022024/c277018174f5fbfd6e1a2b6fc4fe574a.jpg",
+    "product_id": "dbfd1ccab86e41348296db545faa836e",
+    "rating": {
+      "rate": 3.4,
+      "count": 234
+    }
+  },
+  {
+    "id": 67,
+    "title": "Split AC (Air Conditioner)",
+    "slug": "split-ac",
+    "price": 79999,
+    "description": "Efficient air conditioner to keep your room cool and comfortable.",
+    "category": "Home Appliances",
+    "category_id": 20,
+    "image": "https://images.homedepot-static.com/productImages/353d18e8-375c-4fef-8007-6e7c102b4d92/svn/white-gree-mini-split-acs-heat-pump-multi30hp202-64_1000.jpg",
+    "product_id": "6ec4437039054f22aa03950549e05051",
+    "rating": {
+      "rate": 4.0,
+      "count": 341
+    }
+  },
+  {
+    "id": 68,
+    "title": "Wall Mounted Air Conditioner",
+    "slug": "wall-mounted-air-conditioner",
+    "price": 89999,
+    "description": "Wall-mounted air conditioner that cools your space efficiently and quietly.",
+    "category": "Home Appliances",
+    "category_id": 20,
+    "image": "https://th.bing.com/th/id/R.0ff1f3f4e5b3e8cb07bdd8091fa4ef38?rik=nl2cKfb%2fOqMZfw&riu=http%3a%2f%2ffreebie.photography%2fhome%2fair_conditioner.jpg&ehk=wwb2TrxWZZazrT54JZIaFcFJid8tFF3Dna0LWGKiMlY%3d&risl=&pid=ImgRaw&r=0",
+    "product_id": "36e9777e94c74644a2545f73cee2156f",
+    "rating": {
+      "rate": 4.5,
+      "count": 202
+    }
+  },
+  {
+    "id": 69,
+    "title": "Classic Blue Cap",
+    "slug": "classic-blue-cap",
+    "price": 112,
+    "description": "Simple and stylish blue cap. Adjustable fit, great for everyday use.",
+    "category": "Clothes",
+    "category_id": 5,
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.7SmLmI_WDw5S-64qVBhlkQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "fc4449d93321496ebc460b8641061d48",
+    "rating": {
+      "rate": 4.2,
+      "count": 275
+    }
+  },
+  {
+    "id": 70,
+    "title": "Salomon Ski Boots",
+    "slug": "salomon-ski-boots",
+    "price": 700,
+    "description": "Durable and comfortable ski boots from Salomon. Perfect for winter sports.",
+    "category": "Clothes",
+    "category_id": 5,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.hd2fQU0Q8c7OLXiDEitifQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "b3a74743ac364a58a5f2ccdc49d36b68",
+    "rating": {
+      "rate": 3.3,
+      "count": 53
+    }
+  },
+  {
+    "id": 71,
+    "title": "Sword",
+    "price": 1000,
+    "description": "Sun. I am Andúril who was once Narsil",
+    "category": "Cool & Fun Stuff",
+    "category_id": 21,
+    "image": "https://images.ontheedgebrands.com/cdn-cgi/image/f%3Dauto%2Cheight%3D1000%2Cwidth%3D1000%2Cquality%3D75/images/trueswords/c45-uc1380as/anduril-sword-hilt-detail-leather-grip.jpg",
+    "product_id": "4bd52023bf854e69a82bf1fff602c961",
+    "rating": {
+      "rate": 3.6,
+      "count": 187
+    }
+  },
+  {
+    "id": 72,
+    "title": "Quis consequat Nam ",
+    "slug": "quis-consequat-nam",
+    "price": 568,
+    "description": "Et ad ipsam duis sim",
+    "category": "Electronics",
+    "category_id": 3,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.dtwp0QaCC3_GCJlIE2GiogHaEO?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "cf58e29ff5a84c43972ff521626676ac",
+    "rating": {
+      "rate": 4.9,
+      "count": 301
+    }
+  },
+  {
+    "id": 73,
+    "title": "Home Decor with Colorful shoes",
+    "price": 590,
+    "description": "Dolores dolorum Nam ",
+    "category": "Furniture & Home Decor",
+    "category_id": 13,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.8gYTBk4qnUEDZZ_myKwQRgHaGE?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "c65b14f27d7346e597a53a9457ae68cf",
+    "rating": {
+      "rate": 4.6,
+      "count": 287
+    }
+  },
+  {
+    "id": 74,
+    "title": "LamTranBlack & Brown Slipper",
+    "price": 419,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "Clothes",
+    "category_id": 5,
+    "image": "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/thumbnail.jpg",
+    "product_id": "061b3f2c444b435cac2102879bf39faa",
+    "rating": {
+      "rate": 3.5,
+      "count": 468
+    }
+  },
+  {
+    "id": 75,
+    "price": 999,
+    "description": "Travel in style with our durable hardshell carry-on, perfect for weekend getaways and business trips. This sleek olive green suitcase features smooth gliding wheels for easy airport navigation, a sturdy telescopic handle, and a secure zippered compartment to keep your belongings safe. Its compact size meets most airline overhead bin requirements, ensuring a hassle-free flying experience.",
+    "category": "Clothes",
+    "category_id": 5,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.-tLCBHE8jJWAYDHpT4sx2AHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "product_id": "e9e1e0a297e5a8f045e8c0395c4c745b",
+    "rating": {
+      "rate": 3.1,
+      "count": 370
+    }
+  }
+]
